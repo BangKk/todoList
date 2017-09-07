@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/BangKk/todoList.svg?branch=master)](https://travis-ci.org/BangKk/todoList)
+
 ## 说明
 - 通过 todoList 学习 react-redux
 
